@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: myunggodwin@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myunggodwin&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-/github-readme-stats)
 <!--
 [![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=myunggodwin&layout=donut&hide=javascript,css,scss,html,cmake,makefile)](https://github.com/anuraghazra
 [![willianrod's wakatime stats](github-readme-stats.vercel.app/api/wakatime?username=kimgee)](https://github.com/anuraghazra/github-readme-stats)
