@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on embedded systems programming, python and go projects
 - 📫 How to reach me: myunggodwin@gmail.com
 
-[![Anurag's GitHub stats](https://github-stats-sigma-gold.vercel.app/api?username=myunggodwin&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](github-stats-sigma-gold.vercel.app/api/top-langs/?username=myunggodwin&layout=donut&hide=javascript,css,scss,html,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](github-stats-sigma-gold.vercel.app/api/wakatime?username=kimgee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&hide=javascript,css,scss,html,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![willianrod's wakatime stats](github-readme-stats.vercel.app/api/wakatime?username=kimgee)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
